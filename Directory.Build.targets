@@ -1,0 +1,5 @@
+﻿<Project>
+    <Target Name="CopyModuleAssets" AfterTargets="Publish">
+        <!-- کپی فایل‌های asset ماژول‌ها به پوشه publish -->
+    </Target>
+</Project>

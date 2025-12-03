@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "RBEZ6DpCghE=",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\New Web\\SecurityNextMM\\src\\Host\\WebAPI\\WebAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AminiM\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.11\\microsoft.aspnetcore.openapi.9.0.11.nupkg.sha512",
+    "C:\\Users\\AminiM\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
